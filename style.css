@@ -65,11 +65,3 @@ body{
     font-weight: bold;
 }
 /* category end part css */
-.rating-h{
-    color: #006eff;
-    font-size: 48px;
-    font-weight: bold;
-}
-.checked {
-    color: orange;
-  }
